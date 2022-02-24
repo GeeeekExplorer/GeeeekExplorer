@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GeeeekExplorer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeeekExplorer&hide=contribs&show_icons=true&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GeeeekExplorer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeeekExplorer&layout=compact&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
